@@ -10,6 +10,7 @@ Sample input:
 -------------------------------------------------------------------------------
 
 1 Please Paste or Type your nested list
+
 	1.1 Hello, World!
 	1.2 Standard I/O
 		1.2.1 Standard Input
