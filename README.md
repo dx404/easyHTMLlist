@@ -27,7 +27,7 @@ Sample input:
 
 Sample Output:
 -------------------------------------------------------------------------------
-Formatted HTML Source Code
+Formatted HTML Source Code (HTML code may be rendered by your browser)
 <!-- HTML nested list Generation Tool by Duo Zhao -->
 <ul class="duo-list">
    <li data-src-line="1" data-level="1">1 Please Paste or Type your nested list
