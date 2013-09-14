@@ -3,6 +3,9 @@
 Created on Sep 10, 2013
 
 @author: duozhao
+The python document works as a parser to tranlate indented text to HTML list format
+The parser builds a syntax tree from the input text. By walking the syntax tree in 
+depth first search, it emits the HTML list code. 
 '''
 
 import sys
